@@ -76,7 +76,6 @@
     initialPassword = "packer";
     isNormalUser = true;
   };
-  users.users.root.initialPassword = "root";
 
   # List packages installed in system profile. To search, run:
   # $ nix search wget
